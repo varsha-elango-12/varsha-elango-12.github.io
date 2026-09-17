@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a482da1.css",
-    "main.js": "/static/js/main.a1ea405e.js",
+    "main.css": "/static/css/main.4a4f8025.css",
+    "main.js": "/static/js/main.91f360d2.js",
     "static/js/787.b87f0ec2.chunk.js": "/static/js/787.b87f0ec2.chunk.js",
     "static/media/img23.png": "/static/media/img23.37217cc50357effe6a11.png",
     "static/media/img16.png": "/static/media/img16.7d91ed0a43661402d52d.png",
@@ -55,6 +55,7 @@
     "static/media/img44.png": "/static/media/img44.dc77a1cc774f51c24a95.png",
     "static/media/img32.png": "/static/media/img32.c763636bbd3e6345fac5.png",
     "static/media/img46.png": "/static/media/img46.75e094b4a6bef2c31348.png",
+    "static/media/thumbnail.png": "/static/media/thumbnail.ce164d32632bbf0ab67c.png",
     "static/media/varsha-potrait.png": "/static/media/varsha-potrait.e2f4371c1bda464a48f4.png",
     "static/media/Poppins-LightItalic.ttf": "/static/media/Poppins-LightItalic.4a7d59f898225cc2f2e7.ttf",
     "static/media/Poppins-Italic.ttf": "/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
@@ -94,12 +95,12 @@
     "static/media/star-1.png": "/static/media/star-1.5f17cc9e492daeb7c041.png",
     "static/media/mail-4.png": "/static/media/mail-4.76f70bf6b07666d533af.png",
     "index.html": "/index.html",
-    "main.6a482da1.css.map": "/static/css/main.6a482da1.css.map",
-    "main.a1ea405e.js.map": "/static/js/main.a1ea405e.js.map",
+    "main.4a4f8025.css.map": "/static/css/main.4a4f8025.css.map",
+    "main.91f360d2.js.map": "/static/js/main.91f360d2.js.map",
     "787.b87f0ec2.chunk.js.map": "/static/js/787.b87f0ec2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a482da1.css",
-    "static/js/main.a1ea405e.js"
+    "static/css/main.4a4f8025.css",
+    "static/js/main.91f360d2.js"
   ]
 }
