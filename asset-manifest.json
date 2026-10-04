@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0b574ad7.css",
-    "main.js": "/static/js/main.2903f1c5.js",
+    "main.js": "/static/js/main.42d507a9.js",
     "static/js/787.b87f0ec2.chunk.js": "/static/js/787.b87f0ec2.chunk.js",
     "static/media/img23.png": "/static/media/img23.37217cc50357effe6a11.png",
     "static/media/img16.png": "/static/media/img16.7d91ed0a43661402d52d.png",
@@ -16,7 +16,7 @@
     "static/media/9.png": "/static/media/9.048c95b30cf49448f525.png",
     "static/media/img12.png": "/static/media/img12.b271084a172439dc5eb6.png",
     "static/media/img25.png": "/static/media/img25.49b711d8a02cfe945b81.png",
-    "static/media/thumbnail.png": "/static/media/thumbnail.7da8940865bb47d47218.png",
+    "static/media/thumbnail.png": "/static/media/thumbnail.2f2017c3dd45c910122f.png",
     "static/media/img22.png": "/static/media/img22.b8f392a8a77f2099ba60.png",
     "static/media/img11.png": "/static/media/img11.0d3752eeefa7c7f9d5a3.png",
     "static/media/img27.png": "/static/media/img27.7a8f52359284e5563d62.png",
@@ -127,11 +127,11 @@
     "static/media/quote-person-1.svg": "/static/media/quote-person-1.d8f0f215d0aeca3254792443cba60fb1.svg",
     "index.html": "/index.html",
     "main.0b574ad7.css.map": "/static/css/main.0b574ad7.css.map",
-    "main.2903f1c5.js.map": "/static/js/main.2903f1c5.js.map",
+    "main.42d507a9.js.map": "/static/js/main.42d507a9.js.map",
     "787.b87f0ec2.chunk.js.map": "/static/js/787.b87f0ec2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b574ad7.css",
-    "static/js/main.2903f1c5.js"
+    "static/js/main.42d507a9.js"
   ]
 }
